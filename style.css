@@ -187,3 +187,25 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone.svg");
 }
+.main-menu{
+  margin-left: 0;
+  padding: 10px 15px;
+  list-style: none;
+}
+.main-menu li {
+  display:inline-block;
+  padding-right:100px;
+}
+.main-menu a {
+  font-size:20px;
+  color: #fea18d;
+  text-decoration: underline #ffffff;
+}
+.main-menu a:hover{
+  background-color:#4B0082;
+  text-decoration:none;
+}
+.intro p a:hover{
+  background-color: #2F2D30;
+  text-decoration: none;
+}
